@@ -1,6 +1,0 @@
-sum2and5return7 19 0
-sub2and5returnMinus3 15 0.201414
-multip2and5return10 19 0.15925
-divis6and2return3 14 0.215828
----
-sum2and5return7
